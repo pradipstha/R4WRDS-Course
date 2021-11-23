@@ -1,9 +1,9 @@
-# Interactive Visualization
+## Interactive Visualization
 
-#LEARNING OBJECTIVES
-  #How to use interactive visualization in R
-  #Workflows to go from data to visualization
-  #Understand a visualization objective
+# LEARNING OBJECTIVES
+  # How to use interactive visualization in R
+  # Workflows to go from data to visualization
+  # Understand a visualization objective
 
 library(tidygeocoder) # geocode our addresses
 library(tidyverse)    # wrangle data
